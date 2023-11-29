@@ -27,7 +27,7 @@ A função somatorio() recebe um número inteiro como argumento e retorna a soma
 
 Aqui está como a função funciona:
 
-* Inicializa uma variável resultado com o valor 0. Esta variável é usada para armazenar a soma dos números.
+* Inicializa uma variável **resultado** com o valor 0. Esta variável é usada para armazenar a soma dos números.
 * Executa um loop for que começa em 3 e termina antes do número fornecido.
 * Dentro do loop, verifica se o número atual i é múltiplo de 3 ou 5 usando o operador (%) que retorna o resto da divisão. Se i for múltiplo de 3 ou 5, ele é adicionado ao resultado.
 * Depois que o loop é concluído, a função retorna o resultado.
