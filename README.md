@@ -23,7 +23,7 @@ void main() {
 ~~~~
 
 ## Função somatorio()
-A função somatorio() recebe um número inteiro como argumento e retorna a soma de todos os números menores que esse número que são múltiplos de 3 ou 5.
+A função somatorio() recebe um número inteiro como argumento e retorna a soma de todos os números múltiplos de 3 ou 5 menores que ele.
 
 Aqui está como a função funciona:
 
