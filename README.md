@@ -3,7 +3,7 @@
 # Descrição do Projeto
 Este é um simples programa em Dart que calcula a soma de todos os números menores que um número específico, que são múltiplos de 3 ou 5.
 
-Código
+
 Aqui está o código do programa em dart:
 ~~~dart
 int somatorio(int numero) {
