@@ -40,7 +40,7 @@ A função main() é o ponto de entrada do programa. Ela chama a função somato
 1. Você precisará ter o Dart SDK instalado em seu computador.
 2. Em seguida clone esse repositório usando o seguinte comando git:
 ~~~git
-git clone https://github.com/SavioGordiano/escribo-somatorio.git
+git clone https://github.com/devgordiano/escribo-somatorio.git
 ~~~~
 4. pelo terminal navege até a pasta onde foi clonado o projeto, ou abra o terminal diretamente na pasta.
 5. use o comando `dart` para executar o projeto, desse jeito:
